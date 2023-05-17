@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Literata&display=swap");
+
+body {
+  margin: 0;
+}
+
+.frame {
+  padding: 20px;
+}
+
+.text {
+  font-family: "Literata", serif;
+  max-width: 750px;
+  margin: 0 auto;
+}

@@ -3,6 +3,12 @@
 
 body {
   margin: 0;
+  background-color: #1C1C1C;
+  color: white;
+}
+
+a {
+  color: white;
 }
 
 .frame {

@@ -11,7 +11,7 @@ a {
 }
 
 .frame {
-  padding: 40px;
+  padding: 20px;
 }
 
 .list {
@@ -19,6 +19,7 @@ a {
 }
 
 .entry {
+  text-align: center;
   font-size: 1.2em;
   padding: 1.0em 0;
 }

@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Alegreya+Sans&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Literata&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");
 
@@ -16,9 +17,18 @@ a {
 }
 
 .text {
-  font-family: "Literata", serif;
   max-width: 750px;
   margin: 0 auto;
+}
+
+.text h1 {
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: normal;
+  font-size: 2.4em;
+}
+
+.text p {
+  font-family: "Literata", serif;
 }
 
 .signature {
